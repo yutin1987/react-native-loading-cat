@@ -1,0 +1,25 @@
+{
+  "name": "react-native-loading-cat",
+  "version": "1.0.0",
+  "description": "loading cat for react native",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutin1987/react-native-loading-cat.git"
+  },
+  "keywords": [
+    "loading"
+  ],
+  "author": "YuTin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yutin1987/react-native-loading-cat/issues"
+  },
+  "homepage": "https://github.com/yutin1987/react-native-loading-cat#readme"
+}

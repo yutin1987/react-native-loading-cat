@@ -15,7 +15,7 @@ export default class example extends Component {
   render() {
     return (
       <View style={styles.viewport}>
-        <LoadingCat />
+        <LoadingCat variety="original" />
       </View>
     );
   }

@@ -1,6 +1,6 @@
 # react-native-loading-cat
 
-![demo](https://cdn.rawgit.com/yutin1987/react-native-loading-cat/f3f92885/demo.gif)
+![demo](https://github.com/yutin1987/react-native-loading-cat/raw/master/demo.gif)
 
 `yarn add react-native-loading-cat`
 

@@ -2,6 +2,10 @@
 
 ![demo](https://github.com/yutin1987/react-native-loading-cat/raw/master/demo.gif)
 
+|   |   |
+|---|---|
+| ![black](https://github.com/yutin1987/react-native-loading-cat/raw/master/screenshot_black.png) | ![white](https://github.com/yutin1987/react-native-loading-cat/raw/master/screenshot_white.png) |
+
 `yarn add react-native-loading-cat`
 
 # More information
